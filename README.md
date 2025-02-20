@@ -1,4 +1,4 @@
-# Image_Steganography_using_python# Image Steganography using Python
+# Image Steganography using Python
 
 ## Overview
 This project implements Image Steganography using Python, allowing users to hide secret messages within images. The project provides encoding (hiding) and decoding (retrieving) functionalities using the Least Significant Bit (LSB) technique.
